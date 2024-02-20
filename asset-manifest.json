@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.518345c0.css",
-    "main.js": "/Portfolio/static/js/main.97159a15.js",
+    "main.css": "/Portfolio/static/css/main.9676f3a1.css",
+    "main.js": "/Portfolio/static/js/main.6c0e095c.js",
     "static/media/aboutBW.jpeg": "/Portfolio/static/media/aboutBW.735629a9e6cebcdf94ae.jpeg",
     "static/media/CA_PAPER.docx.pdf": "/Portfolio/static/media/CA_PAPER.docx.93e582c16ce1081f5df1.pdf",
     "static/media/looo.png": "/Portfolio/static/media/looo.c508f9f08485a2fb9902.png",
     "static/media/WanderLunch.png": "/Portfolio/static/media/WanderLunch.90cd558a8e728cc45f8d.png",
     "static/media/s.png": "/Portfolio/static/media/s.c6f8baa5f9123629ca7e.png",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.12034918a8e6dd2d7f4d.pdf",
+    "static/media/Vader.png": "/Portfolio/static/media/Vader.93a9ab5fab7db765b7ed.png",
     "static/media/Paper1.jpg": "/Portfolio/static/media/Paper1.64cde9b33fa038b8cd0a.jpg",
+    "static/media/HealthHubDatabase.jpg": "/Portfolio/static/media/HealthHubDatabase.dd9e3431dd38e3086684.jpg",
+    "static/media/ThingLinkClone.png": "/Portfolio/static/media/ThingLinkClone.84883456aafb7bbdb9a4.png",
     "static/media/Paper2.jpg": "/Portfolio/static/media/Paper2.12050cf2f539f84fc199.jpg",
+    "static/media/Krasa.png": "/Portfolio/static/media/Krasa.0c5e7b7fbd3319ea1b8b.png",
     "static/media/profileBW.jpeg": "/Portfolio/static/media/profileBW.771533ff5be58acb3de7.jpeg",
-    "static/media/project3.webp": "/Portfolio/static/media/project3.b094b696f75369270c95.webp",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.9ed5ce852b5a5c84f00e.pdf",
-    "static/media/project1.webp": "/Portfolio/static/media/project1.f2c54a35bc5d07af37ea.webp",
+    "static/media/Notes.png": "/Portfolio/static/media/Notes.111cb035d1abe74810b7.png",
+    "static/media/Optilens.png": "/Portfolio/static/media/Optilens.7b78949b3060e85c4c22.png",
+    "static/media/Vehichain.png": "/Portfolio/static/media/Vehichain.2f3af527d9ef5d7d7269.png",
     "static/media/WalletWatch.png": "/Portfolio/static/media/WalletWatch.32fcfeac7f04d677989e.png",
     "index.html": "/Portfolio/index.html",
-    "main.518345c0.css.map": "/Portfolio/static/css/main.518345c0.css.map",
-    "main.97159a15.js.map": "/Portfolio/static/js/main.97159a15.js.map"
+    "main.9676f3a1.css.map": "/Portfolio/static/css/main.9676f3a1.css.map",
+    "main.6c0e095c.js.map": "/Portfolio/static/js/main.6c0e095c.js.map"
   },
   "entrypoints": [
-    "static/css/main.518345c0.css",
-    "static/js/main.97159a15.js"
+    "static/css/main.9676f3a1.css",
+    "static/js/main.6c0e095c.js"
   ]
 }
